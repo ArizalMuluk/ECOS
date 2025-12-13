@@ -99,6 +99,12 @@ You can customize your passcodes and actions via the `config.json` file. Here is
 **Arizal Firdaus**
 *IT Student & Machine Learning & Deep Learning Engineer*
 
+## 📄 License
+
+This project is distributed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+
+You are free to use, modify, and distribute this code for educational or development purposes.
+
 -----
 
 *This project was created for educational purposes in Computer Vision and Human-Computer Interaction (HCI).*
