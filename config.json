@@ -1,0 +1,19 @@
+{
+    "max_digit": 6,
+    "blink_threshold": 0.24,
+    "input_delay": 1.0,
+    "reset_delay": 3.0,
+    
+    "commands": [
+        {
+            "name": "WATCH YOUTUBE",
+            "code": [0, 1, 0, 1, 0, 1],
+            "action_id": "play_youtube"
+        },
+        {
+            "name": "TERMINATE APPLICATION",
+            "code": [0, 0, 1, 1, 0, 0],
+            "action_id": "terminate_app"
+        }
+    ]
+}
