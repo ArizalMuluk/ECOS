@@ -97,7 +97,7 @@ You can customize your passcodes and actions via the `config.json` file. Here is
 ## 👨‍💻 Author
 
 **Arizal Firdaus**
-*IT Student & Machine Learning & Deep Learning Engineer*
+*IT Student | Machine Learning & Deep Learning Engineer*
 
 ## 📄 License
 
